@@ -10,4 +10,4 @@ server:
   port: 8090
 spring:
   application:
-    name: eureka-server
+    name: eurekaserver
